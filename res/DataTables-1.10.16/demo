@@ -1,0 +1,12 @@
+PROJECT_NAME:demo
+TOOL:SourcererCC
+LANGUAGE:java
+CHECKOUT:MANUAL
+NEW_VERSION:E:\apach_ant\current\ant
+OLD_VERSION:E:\apach_ant\old\ant\.git
+TOKEN:50
+OVERLAPPING:false
+WEB:true
+HTML_DIR:E:\detect\nectest
+CSV:false
+MAIL:false
