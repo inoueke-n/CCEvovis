@@ -122,7 +122,7 @@ public class Project {
 	private boolean checkout = false;
 
 	/** オーバーラップの処理を行うならtrue */
-	private boolean olFilter = false;
+	private boolean olFilter = true;
 
 	/** テキスト形式で結果を出力するならtrue */
 	private boolean generateText = false;

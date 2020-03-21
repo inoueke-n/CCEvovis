@@ -5,9 +5,6 @@ LANGUAGE:java
 LOCAL_TARGET:true
 TARGET_DIR:E:\test1
 TOKEN:30
-OVERLAPPING:false
-WEB:true
 HTML_DIR:E:\detect\test
 CSV:false
-MAIL:false
 USER_ID:hoge
